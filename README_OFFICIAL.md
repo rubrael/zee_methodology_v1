@@ -1,6 +1,6 @@
 # Auditoria Algorítmica no TikTok: Mapeando a Tecnodiversidade
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLE_AQUI_O_LINK_DO_SEU_COLAB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13AnMI5h1N2a-Enfu6EYAbcErK079723i?usp=sharing)
 
 ## Sobre o Projeto
 Este repositório contém o script em Python utilizado no minicurso de Raspagem e Análise de Dados no TikTok para o evento Intercom Centro-Oeste. A ferramenta processa metadados extraídos da rede social para investigar a disputa entre o consumo hegemônico (baseado na lógica do "homem-código" e "homem-mercadoria" de Achille Mbembe) e as redes de resistência contracolonial. 
