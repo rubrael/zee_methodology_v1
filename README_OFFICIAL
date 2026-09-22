@@ -16,9 +16,8 @@ A metodologia de análise foca no contraste entre o "sintagma" (comportamento al
 1. Instale a extensão de navegador [Zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer) para interceptação passiva de metadados.
 2. Acesse o TikTok web e realize a rolagem na página de busca do termo de interesse (ex: *escala6x1* ou *burnout*).
 3. Exporte os dados capturados pela extensão e renomeie o arquivo final para `dados.ndjson`.
-4. Clique no botão **Open in Colab** no topo desta página.
-5. No Google Colab, faça o upload do arquivo `dados.ndjson` no menu de arquivos lateral.
-6. Clique no botão de "Play" na célula **▶ Executar Auditoria de Dados**. Planilhas filtradas e gráficos serão gerados automaticamente.
+4. No Google Colab, faça o upload do arquivo `dados.ndjson` no menu de arquivos lateral.
+5. Clique no botão de "Play" na célula **▶ Executar Auditoria de Dados**. Planilhas filtradas e gráficos serão gerados automaticamente com os nomes que foram renomeados "dados".
 
 ## Limitações e Validação Qualitativa
 A automação computacional e a extração de dados evidenciam a estrutura matemática das redes de interação. Contudo, picos na *Taxa de Mobilização Ativa* exigem auditoria qualitativa do pesquisador para atestar se as interações se configuram como processos emancipatórios genuínos, relatos de escrevivência e organização comunitária, ou se são apenas comportamentos automatizados e reprodução de discursos de ódio.
