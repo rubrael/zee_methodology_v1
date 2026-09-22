@@ -1,0 +1,28 @@
+# Auditoria Algorítmica no TikTok: Mapeando a Tecnodiversidade
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](COLE_AQUI_O_LINK_DO_SEU_COLAB)
+
+## Sobre o Projeto
+Este repositório contém o script em Python utilizado no minicurso de Raspagem e Análise de Dados no TikTok para o evento Intercom Centro-Oeste. A ferramenta processa metadados extraídos da rede social para investigar a disputa entre o consumo hegemônico (baseado na lógica do "homem-código" e "homem-mercadoria" de Achille Mbembe) e as redes de resistência contracolonial. 
+
+O objetivo é instrumentalizar pesquisadores das ciências da comunicação para a realização de análises empíricas estruturadas, sem a necessidade de conhecimentos prévios em programação, revelando as dinâmicas de funcionamento da caixa preta algorítmica.
+
+## Estrutura Metodológica
+A metodologia de análise foca no contraste entre o "sintagma" (comportamento algorítmico hegemônico focado em métricas de vaidade) e o "paradigma" (tecnodiversidade e articulação comunitária). O script realiza processos de limpeza de dados (ETL) e gera gráficos de dispersão comparando duas métricas fundamentais:
+* **Visualizações Totais (Escala Log):** Demonstra o alcance bruto e o impulsionamento algorítmico.
+* **Taxa de Mobilização Ativa (%):** Isola comentários e compartilhamentos para evidenciar a articulação comunitária e a validação qualitativa do debate.
+
+## Como Utilizar (Guia Rápido)
+1. Instale a extensão de navegador [Zeeschuimer](https://github.com/digitalmethodsinitiative/zeeschuimer) para interceptação passiva de metadados.
+2. Acesse o TikTok web e realize a rolagem na página de busca do termo de interesse (ex: *escala6x1* ou *burnout*).
+3. Exporte os dados capturados pela extensão e renomeie o arquivo final para `dados.ndjson`.
+4. Clique no botão **Open in Colab** no topo desta página.
+5. No Google Colab, faça o upload do arquivo `dados.ndjson` no menu de arquivos lateral.
+6. Clique no botão de "Play" na célula **▶ Executar Auditoria de Dados**. Planilhas filtradas e gráficos serão gerados automaticamente.
+
+## Limitações e Validação Qualitativa
+A automação computacional e a extração de dados evidenciam a estrutura matemática das redes de interação. Contudo, picos na *Taxa de Mobilização Ativa* exigem auditoria qualitativa do pesquisador para atestar se as interações se configuram como processos emancipatórios genuínos, relatos de escrevivência e organização comunitária, ou se são apenas comportamentos automatizados e reprodução de discursos de ódio.
+
+## Autoria
+**Rafael Peixoto**  
+Mestrando no Programa de Pós-Graduação em Mídia e Cotidiano (PPGMC) - Universidade Federal Fluminense (UFF).  
